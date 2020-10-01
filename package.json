@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jakiJ/hexlet/issues"
   },
-  "homepage": "https://github.com/jakiJ/hexlet#readme"
+  "homepage": "https://github.com/jakiJ/hexlet#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
